@@ -1,0 +1,41 @@
+* { 
+    color: blue
+}
+      
+        p, span  {
+            color: red;
+            width: 300px;
+        }
+        h1   {
+            font-family: 'Roboto', sans-serif;
+            border: 1px solid black;
+            padding: 20px 20px 15px 15px ;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+            font-weight: bold;
+            color: grey;
+            } 
+            
+    section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+</head> 
+    <body>
+</body>
+</html> 
+
+#mi_parrafo {
+    color: yellow;
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: lightblue;
+}
+
+  
